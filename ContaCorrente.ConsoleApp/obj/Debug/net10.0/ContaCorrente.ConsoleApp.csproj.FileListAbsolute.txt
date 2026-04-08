@@ -1,0 +1,14 @@
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\bin\Debug\net10.0\ContaCorrente.ConsoleApp.exe
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\bin\Debug\net10.0\ContaCorrente.ConsoleApp.deps.json
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\bin\Debug\net10.0\ContaCorrente.ConsoleApp.runtimeconfig.json
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\bin\Debug\net10.0\ContaCorrente.ConsoleApp.dll
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\bin\Debug\net10.0\ContaCorrente.ConsoleApp.pdb
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.AssemblyInfo.cs
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.dll
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\refint\ContaCorrente.ConsoleApp.dll
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.pdb
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.genruntimeconfig.cache
+C:\Users\Vinícius\Documents\Academia do Programador\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ref\ContaCorrente.ConsoleApp.dll
