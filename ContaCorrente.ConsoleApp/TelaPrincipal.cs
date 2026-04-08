@@ -17,7 +17,6 @@ class TelaPrincipal
 
         return opcaoMenu;
     }
-
     public void ApresentarOperacaoSaque(ContaCorrente contaAcessada)
     {
         Console.WriteLine("-------------------------------------");
@@ -41,7 +40,6 @@ class TelaPrincipal
         Console.Write("Digite ENTER para continuar...");
         Console.ReadLine();
     }
-
     public void ApresentarOperacaoDeposito(ContaCorrente contaAcessada)
     {
         Console.WriteLine("-------------------------------------");
@@ -56,7 +54,6 @@ class TelaPrincipal
         Console.Write("Digite ENTER para continuar...");
         Console.ReadLine();
     }
-
     public void ApresentarOperacaoTransferencia(ContaCorrente contaAcessada, ContaCorrente contaDestino)
     {
         Console.WriteLine("-------------------------------------");
@@ -80,7 +77,6 @@ class TelaPrincipal
         Console.Write("Digite ENTER para continuar...");
         Console.ReadLine();
     }
-
     public void ApresentarOperacaoObterSaldo(ContaCorrente contaAcessada)
     {
         decimal saldo = contaAcessada.ObterSaldo();

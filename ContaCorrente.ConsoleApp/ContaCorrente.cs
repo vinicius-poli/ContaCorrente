@@ -2,7 +2,7 @@
 class ContaCorrente
 {
     public int numeroIdentificacao;
-    public string titular;
+    public string? titular;
     public decimal saldo;
     public decimal limiteDebito;
 
@@ -15,12 +15,10 @@ class ContaCorrente
 
         return true;
     }
-
     public void Depositar(decimal valorDeposito)
     {
         saldo += valorDeposito;
     }
-
     public bool TransferirPara(ContaCorrente contaDestino, decimal valorTransferencia)
     {
         bool conseguiuSacar = this.Sacar(valorTransferencia);
@@ -32,7 +30,6 @@ class ContaCorrente
 
         return true;
     }
-
     public decimal ObterSaldo()
     {
         return saldo;
